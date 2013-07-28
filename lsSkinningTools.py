@@ -1,3 +1,6 @@
+import maya.cmds as mc
+from maya.mel import eval as meval
+
 ############################################
 # GET WEIGHTS OF A JOINT
 ############################################
